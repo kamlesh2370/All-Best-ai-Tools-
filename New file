@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Best 100+ Free AI Tools Website - Powered by GitHub Pages">
+  <title>All Best AI Tools</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #111;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+    }
+    .container {
+      padding: 30px;
+    }
+    .card {
+      background: white;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🚀 All Best Free AI Tools</h1>
+    <p>100+ Free AI Tools - No Signup Required</p>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2>1. ChatGPT</h2>
+      <p><a href="https://chat.openai.com" target="_blank">Visit ChatGPT</a></p>
+    </div>
+
+    <div class="card">
+      <h2>2. Canva AI</h2>
+      <p><a href="https://www.canva.com/ai/" target="_blank">Visit Canva AI</a></p>
+    </div>
+
+    <!-- Add more cards here -->
+  </div>
+</body>
+</html>
